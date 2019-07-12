@@ -1,3 +1,8 @@
 .container {
     background-color: blueviolet
 }
+h1  {
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 70px;
+}
