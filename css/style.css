@@ -6,3 +6,13 @@ h1  {
     font-family: 'Kaushan Script', cursive;
     font-size: 70px;
 }
+.female {
+    float: right;
+
+}
+.male {
+    float: left;
+}
+body   {
+    font-family: 'Pinyon Script', cursive;
+}
