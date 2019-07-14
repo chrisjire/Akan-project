@@ -6,4 +6,6 @@ var yy = parseInt(prompt("Enter the year"));
 var mm = parseInt(prompt("Enter the month"));
 var dd = parseInt(prompt("Enter the date of birth"));
 var gender= prompt("your gender")
-var result=day(cc,yy,mm,dd).toFixed();   
+var result=day(cc,yy,mm,dd).toFixed(); 
+var males = ["Kwasi", "kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+var females = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];  
