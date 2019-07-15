@@ -17,6 +17,13 @@ Akan names are derived from Ghanian culture, where by the Ghanian people used to
 
 HTML,CSS and JAVASCRIPT
 
+## BDD
+
+| Behavior| input | output |
+| -------- | -------- | -------- |
+| user inputs century, year, month, date and gender then hits send   | once the information is input the application calculates    | once calculated the app outputs the Akan name of the respective user     |
+
+
 ### Contact Info:
 
 christianwilliamsjire@gmail.com
