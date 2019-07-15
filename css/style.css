@@ -28,3 +28,6 @@ p   {
     background-color: green;
     color: aliceblue;
 }
+.form p  {
+    color: green;
+}
