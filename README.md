@@ -4,7 +4,7 @@ Akan names are derived from Ghanian culture, where by the Ghanian people used to
 
 ## Author:
 
-* My name is christian jire and i worked and created this projectet.
+* My name is christian jire and i worked and created this project.
 
 ## SETUP AND INSTALLATION REQUIRMENTS
 
